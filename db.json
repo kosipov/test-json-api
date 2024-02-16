@@ -1,48 +1,355 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        }
-    ],
-    "items": [
-        {
-            "id": 1,
-            "title": "Мясная котлета-гриль",
-            "price": 300
-        },
-        {
-            "id": 2,
-            "title": "Специальный соус сырный",
-            "price": 20
-        },
-        {
-            "id": 3,
-            "title": "Огурцы",
-            "price": 50
-        },
-        {
-            "id": 4,
-            "title": "Салат",
-            "price": 40
-        },
-        {
-            "id": 5,
-            "title": "Лук",
-            "price": 10
-        },
-        {
-            "id": 6,
-            "title": "Булочка с кунжутом",
-            "price": 60
-        }
+   "azs": [
+  {
+    "id": "652b25ddd35e9236c520f9d1",
+    "address": "269 Matthews Place, Sexton, Montana, 8185",
+    "name": "АЗС № 16",
+    "fuels": [
+      {
+        "type": "АИ-92",
+        "price": 44.22
+      },
+      {
+        "type": "АИ-92HS",
+        "price": 53.62
+      },
+      {
+        "type": "АИ-95",
+        "price": 54.15
+      },
+      {
+        "type": "АИ-95HS",
+        "price": 54.73
+      },
+      {
+        "type": "АИ-98",
+        "price": 43.98
+      },
+      {
+        "type": "АИ-98HS",
+        "price": 45.78
+      },
+      {
+        "type": "ДТ3(Евро)",
+        "price": 41.33
+      },
+      {
+        "type": "ДТ(ЕвроЕК5)",
+        "price": 47.42
+      }
     ]
+  },
+  {
+    "id": "652b25dd64cb499467100fdb",
+    "address": "521 Ditmars Street, Orviston, Alaska, 9674",
+    "name": "АЗС № 12",
+    "fuels": [
+      {
+        "type": "АИ-92",
+        "price": 51.25
+      },
+      {
+        "type": "АИ-92HS",
+        "price": 46.72
+      },
+      {
+        "type": "АИ-95",
+        "price": 50.63
+      },
+      {
+        "type": "АИ-95HS",
+        "price": 50.29
+      },
+      {
+        "type": "АИ-98",
+        "price": 50.75
+      },
+      {
+        "type": "АИ-98HS",
+        "price": 44.58
+      },
+      {
+        "type": "ДТ3(Евро)",
+        "price": 50.21
+      },
+      {
+        "type": "ДТ(ЕвроЕК5)",
+        "price": 53.45
+      }
+    ]
+  },
+  {
+    "id": "652b25dd3e578f9b2e04d895",
+    "address": "435 Revere Place, Selma, Rhode Island, 5486",
+    "name": "АЗС № 91",
+    "fuels": [
+      {
+        "type": "АИ-92",
+        "price": 48
+      },
+      {
+        "type": "АИ-92HS",
+        "price": 44.96
+      },
+      {
+        "type": "АИ-95",
+        "price": 44.4
+      },
+      {
+        "type": "АИ-95HS",
+        "price": 48.2
+      },
+      {
+        "type": "АИ-98",
+        "price": 42.45
+      },
+      {
+        "type": "АИ-98HS",
+        "price": 53.96
+      },
+      {
+        "type": "ДТ3(Евро)",
+        "price": 44.6
+      },
+      {
+        "type": "ДТ(ЕвроЕК5)",
+        "price": 42.92
+      }
+    ]
+  },
+  {
+    "id": "652b25dd3b86ec48ae73701e",
+    "address": "610 Etna Street, Lloyd, Colorado, 2463",
+    "name": "АЗС № 16",
+    "fuels": [
+      {
+        "type": "АИ-92",
+        "price": 49.51
+      },
+      {
+        "type": "АИ-92HS",
+        "price": 48.76
+      },
+      {
+        "type": "АИ-95",
+        "price": 50.69
+      },
+      {
+        "type": "АИ-95HS",
+        "price": 53.46
+      },
+      {
+        "type": "АИ-98",
+        "price": 42.72
+      },
+      {
+        "type": "АИ-98HS",
+        "price": 43.56
+      },
+      {
+        "type": "ДТ3(Евро)",
+        "price": 43.99
+      },
+      {
+        "type": "ДТ(ЕвроЕК5)",
+        "price": 40.72
+      }
+    ]
+  },
+  {
+    "id": "652b25dd5807174d6ffaa2bc",
+    "address": "690 Grattan Street, Bluetown, Arizona, 2571",
+    "name": "АЗС № 72",
+    "fuels": [
+      {
+        "type": "АИ-92",
+        "price": 46.07
+      },
+      {
+        "type": "АИ-92HS",
+        "price": 45.52
+      },
+      {
+        "type": "АИ-95",
+        "price": 41.14
+      },
+      {
+        "type": "АИ-95HS",
+        "price": 53.01
+      },
+      {
+        "type": "АИ-98",
+        "price": 52.3
+      },
+      {
+        "type": "АИ-98HS",
+        "price": 54.91
+      },
+      {
+        "type": "ДТ3(Евро)",
+        "price": 51.39
+      },
+      {
+        "type": "ДТ(ЕвроЕК5)",
+        "price": 48.85
+      }
+    ]
+  },
+  {
+    "id": "652b25ddadae2ca75a9c6458",
+    "address": "983 Montague Terrace, Yardville, Michigan, 7733",
+    "name": "АЗС № 48",
+    "fuels": [
+      {
+        "type": "АИ-92",
+        "price": 40.99
+      },
+      {
+        "type": "АИ-92HS",
+        "price": 40.76
+      },
+      {
+        "type": "АИ-95",
+        "price": 40.22
+      },
+      {
+        "type": "АИ-95HS",
+        "price": 52.71
+      },
+      {
+        "type": "АИ-98",
+        "price": 41.7
+      },
+      {
+        "type": "АИ-98HS",
+        "price": 47.76
+      },
+      {
+        "type": "ДТ3(Евро)",
+        "price": 47.1
+      },
+      {
+        "type": "ДТ(ЕвроЕК5)",
+        "price": 49.23
+      }
+    ]
+  },
+  {
+    "id": "652b25dd84f133df09c2dd1c",
+    "address": "755 Martense Street, Wells, Puerto Rico, 2559",
+    "name": "АЗС № 30",
+    "fuels": [
+      {
+        "type": "АИ-92",
+        "price": 49.25
+      },
+      {
+        "type": "АИ-92HS",
+        "price": 43.25
+      },
+      {
+        "type": "АИ-95",
+        "price": 48.14
+      },
+      {
+        "type": "АИ-95HS",
+        "price": 41.51
+      },
+      {
+        "type": "АИ-98",
+        "price": 46.42
+      },
+      {
+        "type": "АИ-98HS",
+        "price": 44.8
+      },
+      {
+        "type": "ДТ3(Евро)",
+        "price": 44.01
+      },
+      {
+        "type": "ДТ(ЕвроЕК5)",
+        "price": 51.22
+      }
+    ]
+  },
+  {
+    "id": "652b25dd0ed5f7269d703190",
+    "address": "881 Merit Court, Magnolia, Nevada, 3061",
+    "name": "АЗС № 56",
+    "fuels": [
+      {
+        "type": "АИ-92",
+        "price": 52.26
+      },
+      {
+        "type": "АИ-92HS",
+        "price": 43.12
+      },
+      {
+        "type": "АИ-95",
+        "price": 40.55
+      },
+      {
+        "type": "АИ-95HS",
+        "price": 49.54
+      },
+      {
+        "type": "АИ-98",
+        "price": 50.31
+      },
+      {
+        "type": "АИ-98HS",
+        "price": 47.6
+      },
+      {
+        "type": "ДТ3(Евро)",
+        "price": 49.74
+      },
+      {
+        "type": "ДТ(ЕвроЕК5)",
+        "price": 42.17
+      }
+    ]
+  },
+  {
+    "id": "652b25dd3e94cacc455ca319",
+    "address": "686 Woodruff Avenue, Otranto, Ohio, 2917",
+    "name": "АЗС № 98",
+    "fuels": [
+      {
+        "type": "АИ-92",
+        "price": 52.1
+      },
+      {
+        "type": "АИ-92HS",
+        "price": 41.98
+      },
+      {
+        "type": "АИ-95",
+        "price": 43.14
+      },
+      {
+        "type": "АИ-95HS",
+        "price": 49.31
+      },
+      {
+        "type": "АИ-98",
+        "price": 49.02
+      },
+      {
+        "type": "АИ-98HS",
+        "price": 51.55
+      },
+      {
+        "type": "ДТ3(Евро)",
+        "price": 54.9
+      },
+      {
+        "type": "ДТ(ЕвроЕК5)",
+        "price": 44.13
+      }
+    ]
+  }
+]
 }
